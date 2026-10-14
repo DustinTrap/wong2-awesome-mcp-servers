@@ -170,6 +170,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Kiwi.com](<[https://www.kiwi.com](https://mcp-install-instructions.alpic.cloud/servers/kiwi-com-flight-search)>)** - Official [Kiwi.com](https://www.kiwi.com) flight search MCP server. Search and book flights directly from your favorite AI assistant.
 - **[Knit MCP](https://developers.getknit.dev/docs/knit-mcp-server-getting-started)** - Connect with 10,000+ tools across HRIS, ATS, CRM, Accounting, Calendar, Meeting, Ticketing, and more categories.
 - **[Kontent.ai](https://github.com/kontent-ai/mcp-server)** - Create, manage, and explore your content and content model using natural language in any MCP-compatible AI tool.
+- **[kvm-pilot](https://github.com/DustinTrap/kvm-pilot)** - Smart hands for AI agents on bare metal: drive a headless machine through POST, firmware, GRUB and an OS install over IP-KVM (PiKVM, GLKVM), BMC (Redfish, IPMI), Intel AMT and SSH, with vision boot-phase classification and gated, audited destructive operations.
 - **[Last9](https://github.com/last9/last9-mcp-server)** - Seamlessly bring real-time production context—logs, metrics, and traces—into your local environment to auto-fix code faster.
 - **[Logfire](https://github.com/pydantic/logfire-mcp)** - Provides access to OpenTelemetry traces and metrics through Logfire.
 - **[Langfuse Prompt Management](https://github.com/langfuse/mcp-server-langfuse)** - Open-source tool for collaborative editing, versioning, evaluating, and releasing prompts.
